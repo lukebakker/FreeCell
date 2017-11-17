@@ -2,7 +2,7 @@
 
 A program to simulate the game of freecell. 
 
-If the user runs the main file in the Game class then the will see an output like this:
+If the user runs the main file in the 'Game' class (hw04/cs3500/hw03/Game) then the will see an output like this:
 
     F1:
     F2:
